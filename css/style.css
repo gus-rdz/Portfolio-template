@@ -14,3 +14,8 @@ html {
 body {
   font-family: "Inter", sans-serif;
 }
+
+.footer {
+  background-color: #fff;
+  padding: 8rem;
+}
