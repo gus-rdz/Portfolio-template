@@ -28,3 +28,8 @@ body {
   grid-gap: 2rem;
   align-items: center;
 }
+
+.icons {
+  display:flex;
+  column-gap: 2.5rem;
+}
